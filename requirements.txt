@@ -1,0 +1,10 @@
+agno
+chainlit
+yfinance
+lancedb
+asyncio
+sentence-transformers
+tantivy
+wikipedia
+pylance
+openai
