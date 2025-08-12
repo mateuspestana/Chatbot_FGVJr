@@ -1,5 +1,7 @@
 ## Projeto de Chatbots — FGV Jr (Digital Development)
 
+> Prof. Dr. Matheus C. Pestana (FGV Comunicação Rio)
+
 Este repositório foi criado para a formação ministrada à FGV Jr, na área de **Digital Development**, com foco no desenvolvimento de serviços de chatbot usando **Agno** (framework de agentes) e **Chainlit** (UI de chat para LLMs).
 
 ### O que está incluído
